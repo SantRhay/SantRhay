@@ -22,7 +22,7 @@ https://github.com/SantRhay/site-exemplo-dev
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias e Ferramentas
 
 * Git
 * GitHub
