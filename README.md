@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Olá, eu sou Rayane Santana
 
-<!--
-**SantRhay/SantRhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para a área de **DevOps**
 
-Here are some ideas to get you started:
+Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linux
+* Git e GitHub
+* Docker
+* AWS
+* Infraestrutura como Código
+
+---
+
+## 🚀 Projetos
+
+🔹 Landing Page – Explore Marte  
+https://github.com/SantRhay/landing-page-marte
+
+🔹 DevOps Portfolio Site  
+https://github.com/SantRhay/site-exemplo-dev
+
+---
+
+## 🛠 Tecnologias
+
+* Git
+* GitHub
+* HTML
+* CSS
+* Linux
+* Docker (em aprendizado)
+
+---
+
+## 🌎 Contato
+
+LinkedIn: https://www.linkedin.com/in/rayane-santana-dev/
