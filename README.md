@@ -1,6 +1,6 @@
 👋 Olá, eu sou Rayane Santana
 
-🎯 Em transição para a área de **DevOps**
+🎯 Em transição para a área de **DevOps** , com foco em automação, containers e infraestrutura em nuvem.
 
 Atualmente estudando:
 
